@@ -1,11 +1,11 @@
 {
-  "name": "mautic/clearBit",
+  "name": "mautic/clearbit",
   "description": "ClearBit Plugin",
   "type": "mautic-plugin",
   "version": "1.0",
   "keywords": ["mautic","plugin","integration"],
   "extra": {
-    "install-directory-name": "MauticClearBitBundle"
+    "install-directory-name": "MauticClearbitBundle"
   },
   "minimum-stability": "dev"
 }
