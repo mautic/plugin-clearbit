@@ -1,5 +1,5 @@
 {
-  "name": "mautic/clearbit",
+  "name": "mautic/plugin-clearbit",
   "description": "ClearBit Plugin",
   "type": "mautic-plugin",
   "version": "1.0",
